@@ -21,7 +21,7 @@ Uma startup deseja oferecer entregas rápidas de pequenos pacotes usando drones 
 
 ## Diagrama de Classes Incial ⬇️
 
-<img width="761" height="618" alt="Image" src="https://github.com/user-attachments/assets/7a520b6e-761b-4357-bc51-4c2d32e3c78d" />
+
 
 
 ## Sprints 🏃
