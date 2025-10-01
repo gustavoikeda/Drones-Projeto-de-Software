@@ -23,13 +23,18 @@ Uma startup deseja oferecer entregas rápidas de pequenos pacotes usando drones 
 
 ![DiagramaClasses](DiagramaClasses.png)
 
+
+## Diagrama Sequencial Inicial ➡️
+
+![DiagramaSequencia](DiagramaSequencial.png)
+
 ## Sprints 🏃
 
 [💹]ETAPA #1: Proposta de Projeto (tema, equipes e repositório GitHub) - 11/09.
 
-[ ]ETAPA #2: Diagrama de Classes inicial - 18/09.
+[💹]ETAPA #2: Diagrama de Classes inicial - 18/09.
 
-[ ]ETAPA #3: Diagrama de Sequência inicial - 25/09.
+[💹]ETAPA #3: Diagrama de Sequência inicial - 25/09.
 
 [ ]ETAPA #4: Integração de modelos (Classes + Banco de Dados) - 02/10.
 
