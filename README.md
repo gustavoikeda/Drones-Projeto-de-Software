@@ -28,6 +28,11 @@ Uma startup deseja oferecer entregas rápidas de pequenos pacotes usando drones 
 
 ![DiagramaSequencia](DiagramaSequencial.png)
 
+## Banco de Dados 🗄️
+
+![BancoDeDados](DiagramaDB.jpg)
+
+
 ## Sprints 🏃
 
 [💹]ETAPA #1: Proposta de Projeto (tema, equipes e repositório GitHub) - 11/09.
@@ -36,7 +41,7 @@ Uma startup deseja oferecer entregas rápidas de pequenos pacotes usando drones 
 
 [💹]ETAPA #3: Diagrama de Sequência inicial - 25/09.
 
-[ ]ETAPA #4: Integração de modelos (Classes + Banco de Dados) - 02/10.
+[💹]ETAPA #4: Integração de modelos (Classes + Banco de Dados) - 02/10.
 
 
 [ ]ETAPA #5: Diagrama de Projeto (com abstrações e interfaces) - 23/10
